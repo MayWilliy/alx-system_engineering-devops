@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -m -p -s -a --sort=none
