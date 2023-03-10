@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --=hello:bettty. guillame
+chown -- =hello:bettty. guillame
