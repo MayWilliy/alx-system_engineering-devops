@@ -1,2 +1,2 @@
-original file mode
+#!/bin/bash
 ls -l hello
