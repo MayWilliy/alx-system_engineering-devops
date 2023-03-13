@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | middle iacta
+head -n3 |tail -n 1 iacta
