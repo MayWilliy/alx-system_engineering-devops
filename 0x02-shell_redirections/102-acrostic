@@ -1,1 +1,2 @@
-#!/bin/bashi
+#!/bin/bash
+cat | rev 
