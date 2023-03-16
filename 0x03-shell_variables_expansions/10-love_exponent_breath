@@ -1,2 +1,2 @@
 #!/bin/bash
-f-print=BREATH POWER \n
+echo $(( BREATH ** POWER ))
